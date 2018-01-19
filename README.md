@@ -4,18 +4,18 @@ yong input method
 
 ## Build dependencies
 
-g++
-nodejs 
-npm 
-nodejs-legacy 
-libgtk3 
-libgtk2 
-libxkbcommon
-libibus
-qtbase5 qtbase5-private qt5-default qtcreator
-libxkbcommon
-libglib>=2.0
-p7zip-full 
+- g++
+- nodejs 
+- npm 
+- nodejs-legacy 
+- libgtk3 
+- libgtk2 
+- libxkbcommon
+- libibus
+- qtbase5 qtbase5-private qt5-default qtcreator
+- libxkbcommon
+- libglib>=2.0
+- p7zip-full 
 
 ## Supplement the entire missing directory structure
 
