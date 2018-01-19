@@ -54,6 +54,7 @@ node build.js -C install copy dist
 just build the Input method QT5 dynamic link library (libyongplatforminputcontextplugin.so)
 
 ```
+
 node build.js -C im/qt5-im 
 
 ```
@@ -74,8 +75,9 @@ TIP: please put the 'libyongplatforminputcontextplugin.so' into your QT5's platf
 
 ## uninstall 
 
-```
+cd to its root directory
 
+```
 sudo ./yong-tool.sh --uninstall
 
 ```
