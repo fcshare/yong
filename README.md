@@ -61,6 +61,9 @@ node build.js -C im/qt5-im
 
 ## Install
 
+Just use the 7z package which was built in yong-master/install,named 'yong-lin-*TIME*.7z'
+
+
 Unzip the 7z package to the directory you want to place and cd to its root directory
 
 ```
