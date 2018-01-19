@@ -23,11 +23,11 @@ cd to the source code root directory
 
 ```
 
-- mkdir -p {llib,cloud,gbk,mb,vim}/{l32,l64} 
-- mkdir -p {im,config}/{l32-gtk3,l32-gtk2,l64-gtk3,l64-gtk2} 
-- mkdir -p im/gtk-im/{l32-gtk3,l32-gtk2,l64-gtk3,l64-gtk2} 
-- mkdir -p im/IMdkit/{l32,l64} 
-- mkdir -p im/qt5-im/l64-qt5 
+ mkdir -p {llib,cloud,gbk,mb,vim}/{l32,l64} 
+ mkdir -p {im,config}/{l32-gtk3,l32-gtk2,l64-gtk3,l64-gtk2} 
+ mkdir -p im/gtk-im/{l32-gtk3,l32-gtk2,l64-gtk3,l64-gtk2} 
+ mkdir -p im/IMdkit/{l32,l64} 
+ mkdir -p im/qt5-im/l64-qt5 
 
 
 ```
