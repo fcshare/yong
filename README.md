@@ -76,7 +76,11 @@ please put the 'libyongplatforminputcontextplugin.so'
 
 into your QT5's platforminputcontexts,
 
-which was built in ./im/qt5-im/l64-qt5/
+such as /usr/lib/x86_64-linux-gnu/qt5/plugins/platforminputcontexts/
+
+It depends on your linux distribution
+
+libyongplatforminputcontextplugin.so was built in ./im/qt5-im/l64-qt5/
 
 
 ## uninstall 
