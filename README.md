@@ -41,7 +41,7 @@ download the build.js to the source code root directory
 https://github.com/dgod/build.js
 
 ```
-## build 
+## Build 
 
 build all
 
