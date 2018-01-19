@@ -70,7 +70,13 @@ sudo ./yong-tool.sh --install64
 
 ```
 
-TIP: please put the 'libyongplatforminputcontextplugin.so' into your QT5's platforminputcontexts,which was built in ./im/qt5-im/l64-qt5/
+TIP:
+
+please put the 'libyongplatforminputcontextplugin.so' 
+
+into your QT5's platforminputcontexts,
+
+which was built in ./im/qt5-im/l64-qt5/
 
 
 ## uninstall 
