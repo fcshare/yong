@@ -51,6 +51,8 @@ node build.js -C install copy dist
 
 ```
 just build the Input method QT5 dynamic link library (libyongplatforminputcontextplugin.so)
+
+
 QT need support GLIB!
 
 ```
