@@ -13,7 +13,6 @@ yong input method
 - libxkbcommon
 - libibus
 - qtbase5 qtbase5-private qt5-default qtcreator
-- libxkbcommon
 - libglib>=2.0
 - p7zip-full 
 
